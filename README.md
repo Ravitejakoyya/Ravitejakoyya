@@ -1,40 +1,75 @@
-- 👋 Hi, I’m @Ravitejakoyya
-- 👀 I’m interested in Cloud and DevOps domain
-- 🌱 I’m currently learning Cloud and Devops
+<h1 align="center">Hey Everyone 👋, I'm Raviteja Koyya</h1>
 
-# Raviteja
+<div align="center">
+  <img src="https://github.com/Ravitejakoyya/Ravitejakoyya/blob/main/Banner.png" alt="DevOpsEngineer Banner">
+</div>
 
-## 👨‍💻 Systems Engineer at TCS
+<h3 align="center">A passionate DevSecOps Engineer from India. I work in the Corporate IT Sector </h3>
 
-Hello! I'm Raviteja, a passionate and dedicated Systems Engineer with expertise in Cloud and DevOps technologies. My experience spans across various tools and platforms, enabling me to deliver robust and scalable solutions.
+<p align="center">
+  <a href="https://github.com/Ravitejakoyya">
+    <img src="https://img.shields.io/github/followers/Ravitejakoyya?label=Follow&style=social" />
+  </a>
+</p>
 
-### 🛠️ Skills and Expertise
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- **Cloud and DevOps**: Proficient in designing, deploying, and managing cloud infrastructure using various cloud providers and DevOps practices.
-- **Linux**: Strong command of Linux operating systems, including system administration.
-- **SQL**: Experienced in database management, querying, and optimization.
-- **Snowflake**: Skilled in data warehousing and analytics using Snowflake.
-- **Jira and Confluence**: Proficient in project management and collaboration tools to enhance team productivity and communication.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ravitejakoyya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-### 🌟 Notable Projects and Contributions
+- 👨‍💻 All of my projects are available at [https://github.com/Ravitejakoyya](https://github.com/Ravitejakoyya)  
+- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 📫 How to reach me **Ravitejakoyya@gmail.com**
 
-- Successfully implemented a multi-cloud strategy to optimize resource utilization and cost management.
-- Automated deployment pipelines using CI/CD tools to improve software delivery and reduce downtime.
-- Developed and maintained database schemas and ETL processes for large-scale data projects.
-
-### 📫 Contact
-
-- **LinkedIn**: linkedin.com/in/raviteja-reddy-915a0a1a9
-- **Email**: Ravitejakoyya651@gmail.com
-- **GitHub**: https://github.com/Ravitejakoyya/Ravitejakoyya/
-
-### 🌱 Personal Interests
-
-When I'm not immersed in the tech world, I enjoy exploring the latest trends in technology, reading, and hiking. I'm always eager to learn new things and take on challenging projects.
 ---
-Feel free to reach out to me for collaboration or just to connect! https://github.com/Ravitejakoyya/Ravitejakoyya/tree/main or Ravitejakoyya651@gmail.com
 
-<!---
-Ravitejakoyya/Ravitejakoyya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/Ravitejareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ravitejakoyya&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ravitejakoyya&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+---
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 👨‍💼 About Me & 🤝 Open to Collaborations
+
+🎤 Available for **Guest Sessions / Webinars**  
+🤝 Open to **Project Collaborations**  
+💼 Offering **DevOps Consulting / Mentorship**  
+📧 Let’s chat: [Ravitejakoyya651@gmail.com](mailto:Ravitejakoyya651@gmail.com)
+
+> *"Let’s build and automate the future, one pipeline at a time!"*
