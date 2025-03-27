@@ -50,7 +50,9 @@
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/> -->
 <!--   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> -->
   <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-airflow.svg" width="40" height="40"/>
-  <img src="https:/https://raw.githubusercontent.com/shgysk8zer0/logos/master/github.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/herrbischoff/simple-svg-brand-logos/master/logos/github-mark.svg" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO469qo0dl9G8T9r6JLWQtLcByAFt0L6TGdQ&s" width="40" height="40"/>
+
 </p>
 
 
