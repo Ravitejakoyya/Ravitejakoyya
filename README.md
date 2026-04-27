@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ravitejakoyya](https://github.com/Ravitejakoyya)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **Ravitejakoyya@gmail.com**
+- 📫 How to reach me **Ravitejakoyya651@gmail.com**
 
 ---
 
